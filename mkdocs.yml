@@ -1,0 +1,8 @@
+site_name: Maximilian Albert
+site_url: https://maxalbert.github.io/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
