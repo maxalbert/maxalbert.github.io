@@ -3,6 +3,16 @@ site_url: https://maxalbert.github.io/
 
 theme:
   name: material
+  palette:
+    primary: teal
+  font:
+    text: Metrophobic
+    #code: Roboto Mono
 
 nav:
   - Home: index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

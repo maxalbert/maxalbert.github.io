@@ -1,3 +1,5 @@
-Welcome to a curated collection of thoughts and explorations.
+!!! tip "Welcome!"
 
-Browse at your own pace. Return when curious.
+    Welcome to a curated collection of thoughts and explorations.
+
+    Browse at your own pace. Return when curious.
